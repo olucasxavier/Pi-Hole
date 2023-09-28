@@ -59,7 +59,7 @@ sudo bash basic-install.sh
 
 5. Access the Pi-hole web interface by opening a web browser and entering the IP address of the Ubuntu container. The web interface allows you to manage Pi-hole's settings, including whitelisting and blacklisting domains and monitoring network activity.
 
-That's it! You've now installed Pi-hole on an Ubuntu container in Proxmox without using Docker. Pi-hole will serve as a network-wide ad blocker and DNS server, helping to improve your internet experience by blocking unwanted ads.
+That's it! You've now installed Pi-hole on an Ubuntu container in Proxmox. Pi-hole will serve as a network-wide ad blocker and DNS server, helping to improve your internet experience by blocking unwanted ads.
 
 </p>
 <img src="https://i.imgur.com/ZEY9i0S.png" alt="Pi-Hole Web Interface - Dashboard"/>
