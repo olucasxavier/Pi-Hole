@@ -44,7 +44,6 @@ If you want to install Pi-hole on an Ubuntu container in Proxmox as I'm running 
 ````
 sudo apt update
 sudo apt upgrade
-
 ````
 2. Install Pi-hole by cloning the official Pi-hole repository from GitHub:
 ````
