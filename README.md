@@ -55,7 +55,7 @@ sudo bash basic-install.sh
 
 3. Follow the on-screen prompts to configure Pi-hole. You'll be asked to set your timezone, select an upstream DNS provider, and set a strong password for the Pi-hole web interface.
 
-4. Once the installation is complete, Pi-hole will start blocking ads on your network.
+4. Once the installation is complete, change your DNS to the IP you set on your Ubuntu container, this can be done manually per machine, or on your router/DHCP server, so all machines will be protected in your network.
 
 5. Access the Pi-hole web interface by opening a web browser and entering the IP address of the Ubuntu container. The web interface allows you to manage Pi-hole's settings, including whitelisting and blacklisting domains and monitoring network activity.
 
